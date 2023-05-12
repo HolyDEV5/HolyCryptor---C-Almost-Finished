@@ -2,7 +2,7 @@ HolyDevs --
 
 C++ Crypter Fully coded by Europe_HF
 https://hackforums.net/member.php?action=profile&uid=1404526
-
+https://t.me/Europe_HF
 
     HolyKrypt
     bin
